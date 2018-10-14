@@ -10,9 +10,6 @@ La campagne de test se compose principalement des éléments ci-dessous:
 - Utilisation de plusieurs catégories de contenus vidéo (sport, film, documentaires, musique, etc.).
 
 
-
-
 Dans cette campagne d'évaluation, différents emplacements urbains et moyens de transport ont été testés pour évaluer le service de diffusion vidéo YouTube. Chacun de ces emplacements est caractérisé par différents facteurs de la QoE comme la puissance du signal de réception (\textit{Received Signal Strength (RSS)}) et le type du réseau utilisé (3G, HSPA, 4G, etc.). 
 
-
- Pour construire la base de données, la campagne de collecte de tests a duré plus de $6$ mois. Le panel de des testeurs est composé de $155$ hommes et $26$ femmes. Une session de test dure au moins $5$ minutes.  $28$ testeurs ont regardé au moins plus de $10$ vidéos sur une session. À la fin, la base de données récoltée contient $1650$ exemples avec 19 paramètres de différentes classes. La première classe concerne les paramètres réseau, qui sont collectés à partir des mesures des signaux reçus au niveau du terminal de test. La deuxième classe de paramètres concerne  les paramètres vidéo. Elle désigne  les indicateurs que fourni le lecteur vidéo VLC sur les caractéristiques de la séquence vidéo. La troisème classe représentes les paramètres du disposif d'affichage utilisé.
+Pour construire la base de données, la campagne de collecte de tests a duré plus de $6$ mois. Le panel de des testeurs est composé de $155$ hommes et $26$ femmes. Une session de test dure au moins $5$ minutes.  $28$ testeurs ont regardé au moins plus de $10$ vidéos sur une session. À la fin, la base de données récoltée contient $1650$ exemples avec 19 paramètres de différentes classes. La première classe concerne les paramètres réseau, qui sont collectés à partir des mesures des signaux reçus au niveau du terminal de test. La deuxième classe de paramètres concerne  les paramètres vidéo. Elle désigne  les indicateurs que fourni le lecteur vidéo VLC sur les caractéristiques de la séquence vidéo. La troisème classe représentes les paramètres du disposif d'affichage utilisé.
